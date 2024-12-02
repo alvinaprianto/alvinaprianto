@@ -2,7 +2,7 @@
 
 You can call me **Alvin**. 
 
-![Profile views](https://komarev.com/ghpvc/?username=theodorusclarence&color=gray)
+![Profile views](https://komarev.com/ghpvc/?username=alvinaprianto&color=gray)
 ![](https://hit.yhype.me/github/profile?user_id=55318172)
 
 
